@@ -1,0 +1,1 @@
+I need to check if array contains at least one empty elements. If any of the one element is empty then it will return false.

@@ -1,7 +1,7 @@
 /*!
- * array-unique <https://github.com/jonschlinkert/array-unique>
+ * array-unique <https://github.com/steveoni/count-fileword>
  *
- * Copyright (c) 2014-2015, Jon Schlinkert.
+ * Copyright (c) 2017-2018, Jon Schlinkert.
  * Licensed under the MIT License.
  */
 

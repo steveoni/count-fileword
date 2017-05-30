@@ -1,7 +1,7 @@
 /*!
  * array-unique <https://github.com/steveoni/count-fileword>
  *
- * Copyright (c) 2017-2018, Jon Schlinkert.
+ * Copyright (c) 2017-2018, stephen oni.
  * Licensed under the MIT License.
  */
 

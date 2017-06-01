@@ -15,6 +15,12 @@ and it can also be used with command line
 npm count-fileword "file.js"
 ```
 
+## To install
+
+```bash
+npm install count-fileword
+
+```
 ## uses
 
 it can be used for data analysis: after each word count is gotten it can be used to draw graph . and when used with web scrapping modulen can be used to find the most popular word in a site

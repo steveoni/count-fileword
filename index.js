@@ -1,7 +1,6 @@
 /*!
- * array-unique <https://github.com/steveoni/count-fileword>
- *
- * Copyright (c) 2017-2018, stephen oni.
+ * 
+ * @author stephen oni.
  * Licensed under the MIT License.
  */
 
@@ -11,6 +10,15 @@
 var fs  = require("fs");
 
 module.exports = CountFileWord;
+/**
+*@param m:file to be inputed
+*read the file synchronously and convert the buffer to string
+*the file is then turn into an array using split  by space
+*filter the file to remove newline'\n'
+*loop through the filtered word and check if the word
+*are seen before if yes increase by one 
+*and if not ,equall to zero.
+**/
 
 function CountFileWord(m){
 
